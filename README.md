@@ -63,3 +63,12 @@ This project combines:
    * Provide **AI recommendations** (via Gemini)
 
 
+📈 Model Performance
+
+Mean Squared Error (MSE): 93,990.07
+
+R² Score: 0.9096
+
+This indicates the model explains ~91% of the variance in carbon emission predictions with good accuracy.
+
+
